@@ -37,7 +37,7 @@ This project involves analyzing Amazon sales data in the e-commerce domain to de
   - A visually striking layout with a purple-pink-themed background and visuals in shades of pink.
   - **Time Analysis**: Leveraged a Date Table in Power BI for time-based trends.
 - **Dashboard**:
-  [image](https://github.com/user-attachments/assets/1ea23508-2be1-4fe6-9a94-9bef09c302bf)
+  ![image](https://github.com/user-attachments/assets/1ea23508-2be1-4fe6-9a94-9bef09c302bf)
   
 ---
 
